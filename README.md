@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisyongo
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Kubernetes, Ansible and Terrafoam
+- 👀 DevOps enthusiast
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Cloud engineering and Open source projects
 - 📫 How to reach me chrisjanabi@live.com
 
